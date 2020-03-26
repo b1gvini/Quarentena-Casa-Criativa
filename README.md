@@ -21,6 +21,9 @@ A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar
 - JAVASCRIPT
 - HTML5
 - CSS3
+- NODE.js
+- EXPRESS.js
+- NUNJUCKS
 
 💬 Fale comigo
 ------------------
