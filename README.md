@@ -27,7 +27,6 @@ A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar
 [*LinkedIn*](https://www.linkedin.com/in/vgfranca)
 
 Obrigado por chegarem até aqui! 🚀
-E lavem as mãos!
 
 ------------------
 <p align="center">
