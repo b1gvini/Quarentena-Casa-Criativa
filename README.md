@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img width="600" src="Assets/img/logo.svg" />
+    <img width="600" src="public/logo.svg" />
 </h1>
 
 <p align="center">
@@ -11,9 +11,9 @@ A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar
 
 
 
-<img src="Assets/print_git/page_1.png" alt="page-home">
-<img src="Assets/print_git/page_2.png" alt="page-new-idea">
-<img src="Assets/print_git/page_3.png" alt="page-view-idea">
+<img src="print_git/page_1.png" alt="page-home">
+<img src="print_git/page_2.png" alt="page-new-idea">
+<img src="print_git/page_3.png" alt="page-view-idea">
 
 🔧 Tecnologias utilizadas:
 ------------------
