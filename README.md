@@ -24,6 +24,7 @@ A aplicação surgiu com o objetivo de ajudar pessoas a poderem ter onde guardar
 - NODE.js
 - EXPRESS.js
 - NUNJUCKS
+- SQLITE3
 
 💬 Fale comigo
 ------------------
